@@ -1,0 +1,8 @@
+{
+    "tags":[
+        {"pattern": [{"LEMMA":"film"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"workshop"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"panel"}], "label": "TAG"}
+ ]    
+
+}
