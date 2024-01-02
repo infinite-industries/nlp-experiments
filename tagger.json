@@ -2,7 +2,43 @@
     "tags":[
         {"pattern": [{"LEMMA":"film"}], "label": "TAG"},
         {"pattern": [{"LEMMA":"workshop"}], "label": "TAG"},
-        {"pattern": [{"LEMMA":"panel"}], "label": "TAG"}
+        {"pattern": [{"LEMMA":"panel"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"art"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"sculpture"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"painting"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"exhibit"}], "label": "TAG"},
+        {"pattern": [{"LOWER":"comics"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"comedian"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"ballet"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"music"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"dance"}], "label": "TAG"},
+        {"pattern": [{"LOWER":"holiday"},{"OP": "?"},{"LOWER": "season"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"ceramic"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"pottery"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"Lexington"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"Kentucky"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"Christmas"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"ballet"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"jazz"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"swing"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"blues"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"rock"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"country"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"metal"}], "label": "TAG"},
+        {"pattern": [{"LEMMA":"folk"}], "label": "TAG"},
+        {"pattern": [{"LOWER":"punk"},{"OP": "?"},{"LOWER": "rock"}], "label": "TAG"},
+        {"pattern": [{"LOWER":"hip"},{"OP": "?"},{"LOWER": "hop"}], "label": "TAG"},
+
+        {"pattern": [{"LEMMA":"party"}], "label": "TAG"},
+        
+    
+
+        {"pattern": [{"LOWER":"doors"}], "label": "PROCESS_ME"},
+        {"pattern": [{"LOWER":"sculptor"}], "label": "PROCESS_ME"},
+        {"pattern": [{"LOWER":"painter"}], "label": "PROCESS_ME"},
+        {"pattern": [{"LOWER":"nutcracker"}], "label": "PROCESS_ME"}
+
+    
  ]    
 
 }
